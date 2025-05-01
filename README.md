@@ -26,7 +26,7 @@
 
   •Improve non-monetary benefits (e.g., healthcare, flexible hours).
 
-4. Address Workload & OverTime]\
+4. Address Workload & OverTime
    
   •Monitor employee workload to prevent burnout.
 
