@@ -4,7 +4,7 @@
 📘 Attrition Prevention Suggestions
 1. Enhance Employee Engagement
    
- \t •Conduct regular surveys and act on feedback.
+   •Conduct regular surveys and act on feedback.
 
   •Recognize employee achievements.
 
